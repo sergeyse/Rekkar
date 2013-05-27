@@ -9,7 +9,7 @@ import java.util.List;
 
 import com.crud.dao.banco.ConnectionFactory;
 import com.crud.model.Usuario;
-
+ //TODO remove ,this dto is from an old version
 public class UsuarioDAO {
 	private final String URL = "jdbc:mysql://localhost:3306/CRUD";
 	private final String NOME = "root";
